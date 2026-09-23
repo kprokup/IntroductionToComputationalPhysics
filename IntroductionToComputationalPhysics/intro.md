@@ -19,15 +19,15 @@ Welcome!  Computation is powerful. In this course, you are going to learn how to
  - **Lectures:** Thursday 4:00-5:50, 158 Loomis
  - **Professor:** Jacquelyn Noronha-Hostler
     - email: jnorhos@illinois.edu
-    - Office Hours: Tuesday 1:15-2 PM  Loomis 427
+    - Office Hours: Monday 2:15-3 PM  Loomis 427
 
   - **TA(s):**
   - Nikolas Cruz Camacho
       - email: cnc6@illinois.edu
-      - Office Hours: Monday 4pm Loomis TBD
+      - Office Hours: Tuesday 5-6 PM Loomis 275
   - Kaitlyn Rose Prokup 
       - email: kprokup2@illinois.edu
-      - Office Hours: Wedsnesday 3pm Loomis TBD
+      - Office Hours: Wedsnesday 2-3 PM Loomis 275
     
         
 #### Online Tools
